@@ -13,6 +13,8 @@ O ***Tee*** é uma aplicação desenvolvida para facilitar a transcrição e rev
 
 O aplicativo foi pensado para estudantes, pesquisadores, profissionais de humanidades e qualquer pessoa que precise transformar gravações de entrevistas em texto de forma prática e acessível.
 
+*Obs: o app foi desenvolvido pensando em entrevistas, mas serve para transcrição e edição de áudios, no fim das contas. Então, o app é tanto [**Tee 🇩🇪** quanto **Tea 🇺🇸**](https://pbs.twimg.com/media/EAwpkNHXYAA1-gc.jpg)*
+
 ---
 
 ## **Como funciona**
