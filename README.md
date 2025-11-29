@@ -162,22 +162,23 @@ O Streamlit passará a aceitar uploads de até 5 GB em qualquer projeto executad
 
 ## 📄 **Licença**
 
-Este projeto é distribuído sob a licença **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**.
+Este projeto é distribuído sob a licença **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 Você pode:
 
 * Usar, copiar e modificar o código.
 * Criar trabalhos derivados.
 * Compartilhar o projeto com outras pessoas.
+* Utilizar o projeto também para fins comerciais.
 
 Contanto que:
 
 * **Dê o devido crédito ao autor**.
-* **Não utilize para fins comerciais**.
-* **Distribua versões modificadas sob a mesma licença**.
+* **Mantenha a mesma licença (AGPL-3.0) em quaisquer versões modificadas**.
+* **Disponibilize o código-fonte de qualquer aplicação que utilize este projeto, inclusive quando executada por meio de rede** (requisito específico da AGPL).
 
 📘 Licença completa:
-[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html)
 
 ---
 
